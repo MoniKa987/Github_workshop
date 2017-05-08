@@ -1,1 +1,3 @@
 nowy komit
+
+nowa edycja przed diff head
